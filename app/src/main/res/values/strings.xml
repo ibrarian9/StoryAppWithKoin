@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntermediateSubmission</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just go to Dicoding!</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="title_signup_page">Complete your information below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Ready to upgrade your skills?</string>
+    <string name="name">Name</string>
+    <string name="dicoding">Dicoding</string>
+    <string name="deskripsi">Description</string>
+    <string name="judul">Title</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="new_story">New Story</string>
+    <string name="list_story">List Story</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="include_current_location">Include Current Location</string>
+</resources>

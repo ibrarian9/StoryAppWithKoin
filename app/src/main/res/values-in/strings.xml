@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntermediateSubmission</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding aja!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk meningkatkan skill?</string>
+    <string name="name">Nama</string>
+    <string name="dicoding">Dicoding</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="judul">Judul</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="new_story">Cerita Baru</string>
+    <string name="list_story">Daftar Cerita</string>
+    <string name="retry">Ulang</string>
+    <string name="title_activity_maps">MapActivity</string>
+    <string name="include_current_location">Tambahkan Lokasi Terkini</string>
+</resources>
